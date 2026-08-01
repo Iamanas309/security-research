@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+keys/
+cache/
+out/
+broadcast/
+node_modules/
